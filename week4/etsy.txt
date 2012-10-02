@@ -1,0 +1,5 @@
+Etsy website is a typical shopping site layout with the navigation bar of item categories on the left side, search bar at the top, and the items in the larger part of the layout. I'm a big fan of negative space, but for some reason on this site it feels as if it may be too much of it. I think the main reason being that everything is boxed into separate parts rather than all one unit. 
+
+I would rather the site had less boxes to acknowledge separation and used the grid that the site has to define the sections. The font I think may be a bit too small as well and I want the typeface to be different than the typical Helvetica. 
+
+Overall the site just feels like a typical shopping website and needs some good design elements to set apart from the typical site. I do like the "like" button as a feature to make your shopping experience more of a social event, that everyone can see what you like as well, which is basically what the internet is all about now. I think incorporating more social elements like that would make sense for it's kind of audience as well.
