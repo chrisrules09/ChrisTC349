@@ -26,7 +26,7 @@ img {
     margin-right: auto 
 }
 	
-h1 {
+header {
 	margin: 0;
 	padding: 20px 15px;
 	background: #333;
@@ -34,8 +34,9 @@ h1 {
 	color: #FFF;
 }
 
-li {
+li.links {
 	display: inline;
+	padding: 10px;
 }
 
 	
