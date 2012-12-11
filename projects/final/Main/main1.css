@@ -1,0 +1,57 @@
+body {
+	background: #832ab1;
+	margin: 0;
+	padding: 0;
+	height: 100%;
+	font-family: "museo-slab";
+	line-height: 1.4em;
+}
+
+h1 {
+	background: url(main.png) no-repeat center;
+	height: 103px;
+	width: 800px;
+	margin-top: 150px;
+	margin-bottom: auto;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	text-indent: -9000px;
+	color: #fff;
+}
+
+#nav {
+	width: 100%;
+	float: left;
+	margin: 0 0 3em 0;
+	padding-top:10px;
+	padding-bottom: 10px;
+	list-style: none;
+	background-color: #a3aaae; }
+	
+#nav li {
+	float: left;
+	display: block;
+	padding: 8px 125px;
+	text-decoration: none;
+	font-weight: bold;
+	color: #231f20;
+	border-right: 1px solid #5cec2a; }
+
+footer {
+	background: #31044a;
+	padding-bottom: 400px
+}
+
+@media (max-width: 320px) {
+	.container {
+		width: 100%;
+		margin: 0;
+	}
+	h1 {
+		width: 100%;
+	}
+	article {
+		margin: 240px 0 0 0;
+	}
+}
