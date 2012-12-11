@@ -40,7 +40,12 @@ h1 {
 
 footer {
 	background: #31044a;
-	padding-bottom: 400px
+	padding-bottom: 400px;
+	text-align: center;
+}
+
+footer a {
+	color: #832ab1;
 }
 
 @media (max-width: 320px) {
