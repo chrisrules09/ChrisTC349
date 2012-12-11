@@ -48,7 +48,7 @@ article {
 #nav li {
 	float: left;
 	display: block;
-	padding: 8px 72px;
+	padding: 8px 67px;
 	text-decoration: none;
 	font-weight: bold;
 	color: #231f20;
@@ -82,9 +82,15 @@ footer {
 		margin: 0;
 	}
 	h1 {
+		background: url(headermobile.jpg) no-repeat center top;
+		height: 51px;
 		width: 100%;
 	}
 	article {
-		margin: 240px 0 0 0;
+		margin: 0 auto;
 	}
+	
+	#nav li {
+	padding: 8px 7px;
+}
 }

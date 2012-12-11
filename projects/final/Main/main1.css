@@ -49,9 +49,15 @@ footer {
 		margin: 0;
 	}
 	h1 {
+		background: url(mainmobile.png) no-repeat center top;
+		height: 50px;
 		width: 100%;
+		margin-top: 100px;
 	}
 	article {
 		margin: 240px 0 0 0;
 	}
+	#nav li {
+	padding: 8px 2px;
+}
 }
